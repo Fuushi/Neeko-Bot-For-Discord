@@ -1,0 +1,4 @@
+['Kikosamadesu', 'Fushi_#6228', 40, [['greatwin', 100, 'Win a game!'], 'null', 'null'], 'NA1_3996932520', 57300, [4, 9, 21], [['kindred', 15000, 1], ['ezreal', 10000, 1], ['viktor', 10000, 1], ['gangplank', 15000, 1]], 'nil', 'bands', 'na1']
+['Dreadedgod47', 'Kaiden999#9284', 1, [['greaterv 15', 300, 'Finish a Game with a Vision Score of 15 or more!'], 'null'], 'empty', 0, 'none', [], 'nil', 'nil', 'na1']
+['free', 'Fushi_ 22#1491', '93', [None, None], 'empty', 0, 'none', [], 'nil', 'nil', 'euw1']
+['Warsaw', 'Fushi_3🖤#1803', '35', [None, None], 'empty', 10500, 'none', [], 'nil', 'nil', 'na1']

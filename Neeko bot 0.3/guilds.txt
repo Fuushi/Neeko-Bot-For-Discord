@@ -1,0 +1,2 @@
+['bands', [['Fushi_#6228', 0, 'nil'], ['Fushi_3\ud83d\udda4#1803', 1, 'nil']], 'Fushi_#6228', 'nil']
+['hawks', [['Fushi_ 2#1491', 0, 'nil']], 'Fushi_ 2#1491', 'nil']
